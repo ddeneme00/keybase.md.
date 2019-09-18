@@ -1,0 +1,67 @@
+### Keybase proof
+
+I hereby claim:
+
+  * I am ddeneme00 on github.
+  * I am ddeneme00 (https://keybase.io/ddeneme00) on keybase.
+  * I have a public key ASB-rZlqKnKrIJpQJ6SY3fl6uEEC3BLm7YtKB8Evbrk4Tgo
+
+To claim this, I am signing this object:
+
+```json
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01207ead996a2a72ab209a5027a498ddf97ab84102dc12e6ed8b4a07c12f6eb9384e0a",
+      "host": "keybase.io",
+      "kid": "01207ead996a2a72ab209a5027a498ddf97ab84102dc12e6ed8b4a07c12f6eb9384e0a",
+      "uid": "7f46fc10aeb44f704a0e203f1b42aa19",
+      "username": "ddeneme00"
+    },
+    "merkle_root": {
+      "ctime": 1568797186,
+      "hash": "3c27f5f445bc38da341e8d56c9fe66bc142162e6cf34c02998717140bc31ffb8547bd95a47bf10be1d7428afc191483704ea67fb8b0f9ff071ba079c343adbbe",
+      "hash_meta": "77a79c95724806c21ffe3da3848cf752eec3c0952fcc1055450d3cfb329fb4f8",
+      "seqno": 7552275
+    },
+    "service": {
+      "entropy": "9bl40Z/dasz6mIgWRSsjUcFT",
+      "name": "github",
+      "username": "ddeneme00"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.2"
+  },
+  "ctime": 1568797191,
+  "expire_in": 504576000,
+  "prev": "6a1eca6c9518d1742d415fa031fe69cd9b2dc882b5b7c72bb48a3854f5c82d41",
+  "seqno": 4,
+  "tag": "signature"
+}
+```
+
+with the key [ASB-rZlqKnKrIJpQJ6SY3fl6uEEC3BLm7YtKB8Evbrk4Tgo](https://keybase.io/ddeneme00), yielding the signature:
+
+```
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgfq2ZaipyqyCaUCekmN35erhBAtwS5u2LSgfBL265OE4Kp3BheWxvYWTESpcCBMQgah7KbJUY0XQtQV+gMf5pzZstyIK1t8crtIo4VPXILUHEIAMa7uOebb2tMO4CPD2ptoAAG82Hlz89do+8LpmjJGEzAgHCo3NpZ8RAD5WHk/caqrtPSvwsNxlYHYKfKtr+40jb7IRsczPgH6C3L7o3G5+vUEca0knin0Bv8kscbGhEk5g2u91ViCgkAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBLkswfQZL1qeJtosLtWnnU5LbGfG2z68T8y1MeYKBA9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+```
+
+And finally, I am proving ownership of the github account by posting this as a gist.
+
+### My publicly-auditable identity:
+
+https://keybase.io/ddeneme00
+
+### From the command line:
+
+Consider the [keybase command line program](https://keybase.io/download).
+
+```bash
+# look me up
+keybase id ddeneme00
+```
